@@ -123,3 +123,20 @@ All three implementations follow the same high-level rules:
   path;
 - historical, FFI, supply-chain, and compiler-hole labs must not accidentally
   become part of an ordinary root build.
+
+## Contact
+
+Sergey Gordeychik
+
+- Email: scadastrangelove@gmail.com
+- X/Twitter: [@scadasl](https://x.com/scadasl)
+- Blog: [scadastrangelove.blogspot.com](https://scadastrangelove.blogspot.com/)
+
+Issues and pull requests are welcome.
+
+For the upstream C/C++ reference pipeline, see
+[anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness).
+
+## License
+
+Apache-2.0 — see [LICENSE](https://github.com/scadastrangelove/damn-vulnerable-rust-app/blob/main/LICENSE).
