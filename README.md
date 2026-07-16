@@ -1,5 +1,9 @@
 # Damn Vulnerable Rust Application (DVRA)
 
+<p align="center">
+  <img src="dvra-logo.png" alt="Damn Vulnerable Rust Application logo" width="260">
+</p>
+
 This repository contains three Rust security benchmark implementations under a
 shared DVRA contract. Each implementation models a deliberately vulnerable
 artifact-processing application, but at a different scale: from a dense
